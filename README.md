@@ -81,7 +81,7 @@ pip install tensorflow
 
 or (if you want GPU support):
 ```
-pip install tensorflow_gpu
+pip install tensorflow-gpu
 ```
 
 For more details about TensorFlow installation, you can check [TensorFlow Installation Guide](https://www.tensorflow.org/install/)
